@@ -1,4 +1,4 @@
-getting-started-ruby
+getting-started-ruby   [![wercker status](https://app.wercker.com/status/3f121f18f2bc0edf793730f4b891e455/s "wercker status")](https://app.wercker.com/project/bykey/3f121f18f2bc0edf793730f4b891e455)
 ====================
 
 Ruby sample application for wercker leveraging the Sinatra microframework
