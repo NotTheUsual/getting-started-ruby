@@ -10,4 +10,4 @@ This application was made as a companion to a couple of our [devcenter](http://d
 
 Fingers crossed
 
-[![Wercker status](https://app.wercker.com/status/2129a80863b811ed8dea085d939102a9/m)](https://app.wercker.com/project/bykey/2129a80863b811ed8dea085d939102a9)
+[![wercker status](https://app.wercker.com/status/3f121f18f2bc0edf793730f4b891e455/m "wercker status")](https://app.wercker.com/project/bykey/3f121f18f2bc0edf793730f4b891e455)
