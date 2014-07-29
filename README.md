@@ -9,3 +9,5 @@ This application was made as a companion to a couple of our [devcenter](http://d
 * The [devcenter - getting started with ruby and sinatra](http://devcenter.wercker.com/articles/languages/ruby/getting-started-sinatra-api.html) article shows you how to create this repository by yourself.
 
 [![Wercker status](https://app.wercker.com/status/2129a80863b811ed8dea085d939102a9/m)](https://app.wercker.com/project/bykey/2129a80863b811ed8dea085d939102a9)
+
+Fingers crossed
