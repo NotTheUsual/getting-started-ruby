@@ -5,8 +5,4 @@
       get '/'
       last_response.should be_ok
     end
-    
-    it "should break the build" do
-      false.should be_true
-    end
   end
